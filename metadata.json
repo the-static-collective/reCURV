@@ -1,0 +1,6 @@
+{
+  "name": "The Recursive Garden",
+  "description": "An interactive T5-driven co-creative video choreography tool mapping Suno timelines and Autodiscography motifs into symbolic visuals, structured as an organic database soil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
